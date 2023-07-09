@@ -1,0 +1,15 @@
+/Users/soumyaprasadchandra/Desktop/C_Sharp_MATH/C_Sharp_MATH/obj/Debug/net7.0/C_Sharp_MATH.csproj.AssemblyReference.cache
+/Users/soumyaprasadchandra/Desktop/C_Sharp_MATH/C_Sharp_MATH/obj/Debug/net7.0/C_Sharp_MATH.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soumyaprasadchandra/Desktop/C_Sharp_MATH/C_Sharp_MATH/obj/Debug/net7.0/C_Sharp_MATH.AssemblyInfoInputs.cache
+/Users/soumyaprasadchandra/Desktop/C_Sharp_MATH/C_Sharp_MATH/obj/Debug/net7.0/C_Sharp_MATH.AssemblyInfo.cs
+/Users/soumyaprasadchandra/Desktop/C_Sharp_MATH/C_Sharp_MATH/obj/Debug/net7.0/C_Sharp_MATH.csproj.CoreCompileInputs.cache
+/Users/soumyaprasadchandra/Desktop/C_Sharp_MATH/C_Sharp_MATH/bin/Debug/net7.0/C_Sharp_MATH
+/Users/soumyaprasadchandra/Desktop/C_Sharp_MATH/C_Sharp_MATH/bin/Debug/net7.0/C_Sharp_MATH.deps.json
+/Users/soumyaprasadchandra/Desktop/C_Sharp_MATH/C_Sharp_MATH/bin/Debug/net7.0/C_Sharp_MATH.runtimeconfig.json
+/Users/soumyaprasadchandra/Desktop/C_Sharp_MATH/C_Sharp_MATH/bin/Debug/net7.0/C_Sharp_MATH.dll
+/Users/soumyaprasadchandra/Desktop/C_Sharp_MATH/C_Sharp_MATH/bin/Debug/net7.0/C_Sharp_MATH.pdb
+/Users/soumyaprasadchandra/Desktop/C_Sharp_MATH/C_Sharp_MATH/obj/Debug/net7.0/C_Sharp_MATH.dll
+/Users/soumyaprasadchandra/Desktop/C_Sharp_MATH/C_Sharp_MATH/obj/Debug/net7.0/refint/C_Sharp_MATH.dll
+/Users/soumyaprasadchandra/Desktop/C_Sharp_MATH/C_Sharp_MATH/obj/Debug/net7.0/C_Sharp_MATH.pdb
+/Users/soumyaprasadchandra/Desktop/C_Sharp_MATH/C_Sharp_MATH/obj/Debug/net7.0/C_Sharp_MATH.genruntimeconfig.cache
+/Users/soumyaprasadchandra/Desktop/C_Sharp_MATH/C_Sharp_MATH/obj/Debug/net7.0/ref/C_Sharp_MATH.dll

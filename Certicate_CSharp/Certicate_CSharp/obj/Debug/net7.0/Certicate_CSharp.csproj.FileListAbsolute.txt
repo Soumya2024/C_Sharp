@@ -1,0 +1,15 @@
+/Users/soumyaprasadchandra/Desktop/Certicate_CSharp/Certicate_CSharp/bin/Debug/net7.0/Certicate_CSharp
+/Users/soumyaprasadchandra/Desktop/Certicate_CSharp/Certicate_CSharp/bin/Debug/net7.0/Certicate_CSharp.deps.json
+/Users/soumyaprasadchandra/Desktop/Certicate_CSharp/Certicate_CSharp/bin/Debug/net7.0/Certicate_CSharp.runtimeconfig.json
+/Users/soumyaprasadchandra/Desktop/Certicate_CSharp/Certicate_CSharp/bin/Debug/net7.0/Certicate_CSharp.dll
+/Users/soumyaprasadchandra/Desktop/Certicate_CSharp/Certicate_CSharp/bin/Debug/net7.0/Certicate_CSharp.pdb
+/Users/soumyaprasadchandra/Desktop/Certicate_CSharp/Certicate_CSharp/obj/Debug/net7.0/Certicate_CSharp.csproj.AssemblyReference.cache
+/Users/soumyaprasadchandra/Desktop/Certicate_CSharp/Certicate_CSharp/obj/Debug/net7.0/Certicate_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soumyaprasadchandra/Desktop/Certicate_CSharp/Certicate_CSharp/obj/Debug/net7.0/Certicate_CSharp.AssemblyInfoInputs.cache
+/Users/soumyaprasadchandra/Desktop/Certicate_CSharp/Certicate_CSharp/obj/Debug/net7.0/Certicate_CSharp.AssemblyInfo.cs
+/Users/soumyaprasadchandra/Desktop/Certicate_CSharp/Certicate_CSharp/obj/Debug/net7.0/Certicate_CSharp.csproj.CoreCompileInputs.cache
+/Users/soumyaprasadchandra/Desktop/Certicate_CSharp/Certicate_CSharp/obj/Debug/net7.0/Certicate_CSharp.dll
+/Users/soumyaprasadchandra/Desktop/Certicate_CSharp/Certicate_CSharp/obj/Debug/net7.0/refint/Certicate_CSharp.dll
+/Users/soumyaprasadchandra/Desktop/Certicate_CSharp/Certicate_CSharp/obj/Debug/net7.0/Certicate_CSharp.pdb
+/Users/soumyaprasadchandra/Desktop/Certicate_CSharp/Certicate_CSharp/obj/Debug/net7.0/Certicate_CSharp.genruntimeconfig.cache
+/Users/soumyaprasadchandra/Desktop/Certicate_CSharp/Certicate_CSharp/obj/Debug/net7.0/ref/Certicate_CSharp.dll

@@ -1,0 +1,15 @@
+/Users/soumyaprasadchandra/Desktop/Palindrome_Number/Palindrome_NUmber_CPP/Palindrome_NUmber_CPP/obj/Debug/net7.0/Palindrome_NUmber_CPP.csproj.AssemblyReference.cache
+/Users/soumyaprasadchandra/Desktop/Palindrome_Number/Palindrome_NUmber_CPP/Palindrome_NUmber_CPP/obj/Debug/net7.0/Palindrome_NUmber_CPP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soumyaprasadchandra/Desktop/Palindrome_Number/Palindrome_NUmber_CPP/Palindrome_NUmber_CPP/obj/Debug/net7.0/Palindrome_NUmber_CPP.AssemblyInfoInputs.cache
+/Users/soumyaprasadchandra/Desktop/Palindrome_Number/Palindrome_NUmber_CPP/Palindrome_NUmber_CPP/obj/Debug/net7.0/Palindrome_NUmber_CPP.AssemblyInfo.cs
+/Users/soumyaprasadchandra/Desktop/Palindrome_Number/Palindrome_NUmber_CPP/Palindrome_NUmber_CPP/obj/Debug/net7.0/Palindrome_NUmber_CPP.csproj.CoreCompileInputs.cache
+/Users/soumyaprasadchandra/Desktop/Palindrome_Number/Palindrome_NUmber_CPP/Palindrome_NUmber_CPP/bin/Debug/net7.0/Palindrome_NUmber_CPP
+/Users/soumyaprasadchandra/Desktop/Palindrome_Number/Palindrome_NUmber_CPP/Palindrome_NUmber_CPP/bin/Debug/net7.0/Palindrome_NUmber_CPP.deps.json
+/Users/soumyaprasadchandra/Desktop/Palindrome_Number/Palindrome_NUmber_CPP/Palindrome_NUmber_CPP/bin/Debug/net7.0/Palindrome_NUmber_CPP.runtimeconfig.json
+/Users/soumyaprasadchandra/Desktop/Palindrome_Number/Palindrome_NUmber_CPP/Palindrome_NUmber_CPP/bin/Debug/net7.0/Palindrome_NUmber_CPP.dll
+/Users/soumyaprasadchandra/Desktop/Palindrome_Number/Palindrome_NUmber_CPP/Palindrome_NUmber_CPP/bin/Debug/net7.0/Palindrome_NUmber_CPP.pdb
+/Users/soumyaprasadchandra/Desktop/Palindrome_Number/Palindrome_NUmber_CPP/Palindrome_NUmber_CPP/obj/Debug/net7.0/Palindrome_NUmber_CPP.dll
+/Users/soumyaprasadchandra/Desktop/Palindrome_Number/Palindrome_NUmber_CPP/Palindrome_NUmber_CPP/obj/Debug/net7.0/refint/Palindrome_NUmber_CPP.dll
+/Users/soumyaprasadchandra/Desktop/Palindrome_Number/Palindrome_NUmber_CPP/Palindrome_NUmber_CPP/obj/Debug/net7.0/Palindrome_NUmber_CPP.pdb
+/Users/soumyaprasadchandra/Desktop/Palindrome_Number/Palindrome_NUmber_CPP/Palindrome_NUmber_CPP/obj/Debug/net7.0/Palindrome_NUmber_CPP.genruntimeconfig.cache
+/Users/soumyaprasadchandra/Desktop/Palindrome_Number/Palindrome_NUmber_CPP/Palindrome_NUmber_CPP/obj/Debug/net7.0/ref/Palindrome_NUmber_CPP.dll

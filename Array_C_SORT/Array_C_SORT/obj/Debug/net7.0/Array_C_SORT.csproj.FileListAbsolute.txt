@@ -1,0 +1,15 @@
+/Users/soumyaprasadchandra/Desktop/Array_C_SORT/Array_C_SORT/bin/Debug/net7.0/Array_C_SORT
+/Users/soumyaprasadchandra/Desktop/Array_C_SORT/Array_C_SORT/bin/Debug/net7.0/Array_C_SORT.deps.json
+/Users/soumyaprasadchandra/Desktop/Array_C_SORT/Array_C_SORT/bin/Debug/net7.0/Array_C_SORT.runtimeconfig.json
+/Users/soumyaprasadchandra/Desktop/Array_C_SORT/Array_C_SORT/bin/Debug/net7.0/Array_C_SORT.dll
+/Users/soumyaprasadchandra/Desktop/Array_C_SORT/Array_C_SORT/bin/Debug/net7.0/Array_C_SORT.pdb
+/Users/soumyaprasadchandra/Desktop/Array_C_SORT/Array_C_SORT/obj/Debug/net7.0/Array_C_SORT.csproj.AssemblyReference.cache
+/Users/soumyaprasadchandra/Desktop/Array_C_SORT/Array_C_SORT/obj/Debug/net7.0/Array_C_SORT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soumyaprasadchandra/Desktop/Array_C_SORT/Array_C_SORT/obj/Debug/net7.0/Array_C_SORT.AssemblyInfoInputs.cache
+/Users/soumyaprasadchandra/Desktop/Array_C_SORT/Array_C_SORT/obj/Debug/net7.0/Array_C_SORT.AssemblyInfo.cs
+/Users/soumyaprasadchandra/Desktop/Array_C_SORT/Array_C_SORT/obj/Debug/net7.0/Array_C_SORT.csproj.CoreCompileInputs.cache
+/Users/soumyaprasadchandra/Desktop/Array_C_SORT/Array_C_SORT/obj/Debug/net7.0/Array_C_SORT.dll
+/Users/soumyaprasadchandra/Desktop/Array_C_SORT/Array_C_SORT/obj/Debug/net7.0/refint/Array_C_SORT.dll
+/Users/soumyaprasadchandra/Desktop/Array_C_SORT/Array_C_SORT/obj/Debug/net7.0/Array_C_SORT.pdb
+/Users/soumyaprasadchandra/Desktop/Array_C_SORT/Array_C_SORT/obj/Debug/net7.0/Array_C_SORT.genruntimeconfig.cache
+/Users/soumyaprasadchandra/Desktop/Array_C_SORT/Array_C_SORT/obj/Debug/net7.0/ref/Array_C_SORT.dll

@@ -1,0 +1,15 @@
+/Users/soumyaprasadchandra/Desktop/VB_NET/Armstrong_NUMBER/Armstrong_NUMBER/bin/Debug/net6.0/Armstrong_NUMBER
+/Users/soumyaprasadchandra/Desktop/VB_NET/Armstrong_NUMBER/Armstrong_NUMBER/bin/Debug/net6.0/Armstrong_NUMBER.deps.json
+/Users/soumyaprasadchandra/Desktop/VB_NET/Armstrong_NUMBER/Armstrong_NUMBER/bin/Debug/net6.0/Armstrong_NUMBER.runtimeconfig.json
+/Users/soumyaprasadchandra/Desktop/VB_NET/Armstrong_NUMBER/Armstrong_NUMBER/bin/Debug/net6.0/Armstrong_NUMBER.dll
+/Users/soumyaprasadchandra/Desktop/VB_NET/Armstrong_NUMBER/Armstrong_NUMBER/bin/Debug/net6.0/Armstrong_NUMBER.pdb
+/Users/soumyaprasadchandra/Desktop/VB_NET/Armstrong_NUMBER/Armstrong_NUMBER/obj/Debug/net6.0/Armstrong_NUMBER.csproj.AssemblyReference.cache
+/Users/soumyaprasadchandra/Desktop/VB_NET/Armstrong_NUMBER/Armstrong_NUMBER/obj/Debug/net6.0/Armstrong_NUMBER.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soumyaprasadchandra/Desktop/VB_NET/Armstrong_NUMBER/Armstrong_NUMBER/obj/Debug/net6.0/Armstrong_NUMBER.AssemblyInfoInputs.cache
+/Users/soumyaprasadchandra/Desktop/VB_NET/Armstrong_NUMBER/Armstrong_NUMBER/obj/Debug/net6.0/Armstrong_NUMBER.AssemblyInfo.cs
+/Users/soumyaprasadchandra/Desktop/VB_NET/Armstrong_NUMBER/Armstrong_NUMBER/obj/Debug/net6.0/Armstrong_NUMBER.csproj.CoreCompileInputs.cache
+/Users/soumyaprasadchandra/Desktop/VB_NET/Armstrong_NUMBER/Armstrong_NUMBER/obj/Debug/net6.0/Armstrong_NUMBER.dll
+/Users/soumyaprasadchandra/Desktop/VB_NET/Armstrong_NUMBER/Armstrong_NUMBER/obj/Debug/net6.0/refint/Armstrong_NUMBER.dll
+/Users/soumyaprasadchandra/Desktop/VB_NET/Armstrong_NUMBER/Armstrong_NUMBER/obj/Debug/net6.0/Armstrong_NUMBER.pdb
+/Users/soumyaprasadchandra/Desktop/VB_NET/Armstrong_NUMBER/Armstrong_NUMBER/obj/Debug/net6.0/Armstrong_NUMBER.genruntimeconfig.cache
+/Users/soumyaprasadchandra/Desktop/VB_NET/Armstrong_NUMBER/Armstrong_NUMBER/obj/Debug/net6.0/ref/Armstrong_NUMBER.dll

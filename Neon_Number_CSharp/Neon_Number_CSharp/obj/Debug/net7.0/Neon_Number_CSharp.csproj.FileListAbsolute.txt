@@ -1,0 +1,15 @@
+/Users/soumyaprasadchandra/Desktop/Neon_Number_CSharp/Neon_Number_CSharp/bin/Debug/net7.0/Neon_Number_CSharp
+/Users/soumyaprasadchandra/Desktop/Neon_Number_CSharp/Neon_Number_CSharp/bin/Debug/net7.0/Neon_Number_CSharp.deps.json
+/Users/soumyaprasadchandra/Desktop/Neon_Number_CSharp/Neon_Number_CSharp/bin/Debug/net7.0/Neon_Number_CSharp.runtimeconfig.json
+/Users/soumyaprasadchandra/Desktop/Neon_Number_CSharp/Neon_Number_CSharp/bin/Debug/net7.0/Neon_Number_CSharp.dll
+/Users/soumyaprasadchandra/Desktop/Neon_Number_CSharp/Neon_Number_CSharp/bin/Debug/net7.0/Neon_Number_CSharp.pdb
+/Users/soumyaprasadchandra/Desktop/Neon_Number_CSharp/Neon_Number_CSharp/obj/Debug/net7.0/Neon_Number_CSharp.csproj.AssemblyReference.cache
+/Users/soumyaprasadchandra/Desktop/Neon_Number_CSharp/Neon_Number_CSharp/obj/Debug/net7.0/Neon_Number_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soumyaprasadchandra/Desktop/Neon_Number_CSharp/Neon_Number_CSharp/obj/Debug/net7.0/Neon_Number_CSharp.AssemblyInfoInputs.cache
+/Users/soumyaprasadchandra/Desktop/Neon_Number_CSharp/Neon_Number_CSharp/obj/Debug/net7.0/Neon_Number_CSharp.AssemblyInfo.cs
+/Users/soumyaprasadchandra/Desktop/Neon_Number_CSharp/Neon_Number_CSharp/obj/Debug/net7.0/Neon_Number_CSharp.csproj.CoreCompileInputs.cache
+/Users/soumyaprasadchandra/Desktop/Neon_Number_CSharp/Neon_Number_CSharp/obj/Debug/net7.0/Neon_Number_CSharp.dll
+/Users/soumyaprasadchandra/Desktop/Neon_Number_CSharp/Neon_Number_CSharp/obj/Debug/net7.0/refint/Neon_Number_CSharp.dll
+/Users/soumyaprasadchandra/Desktop/Neon_Number_CSharp/Neon_Number_CSharp/obj/Debug/net7.0/Neon_Number_CSharp.pdb
+/Users/soumyaprasadchandra/Desktop/Neon_Number_CSharp/Neon_Number_CSharp/obj/Debug/net7.0/Neon_Number_CSharp.genruntimeconfig.cache
+/Users/soumyaprasadchandra/Desktop/Neon_Number_CSharp/Neon_Number_CSharp/obj/Debug/net7.0/ref/Neon_Number_CSharp.dll

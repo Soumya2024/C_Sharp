@@ -1,0 +1,15 @@
+/Users/soumyaprasadchandra/Desktop/VB_NET/Calculator_VB/Calculator_VB/bin/Debug/net6.0/Calculator_VB
+/Users/soumyaprasadchandra/Desktop/VB_NET/Calculator_VB/Calculator_VB/bin/Debug/net6.0/Calculator_VB.deps.json
+/Users/soumyaprasadchandra/Desktop/VB_NET/Calculator_VB/Calculator_VB/bin/Debug/net6.0/Calculator_VB.runtimeconfig.json
+/Users/soumyaprasadchandra/Desktop/VB_NET/Calculator_VB/Calculator_VB/bin/Debug/net6.0/Calculator_VB.dll
+/Users/soumyaprasadchandra/Desktop/VB_NET/Calculator_VB/Calculator_VB/bin/Debug/net6.0/Calculator_VB.pdb
+/Users/soumyaprasadchandra/Desktop/VB_NET/Calculator_VB/Calculator_VB/obj/Debug/net6.0/Calculator_VB.csproj.AssemblyReference.cache
+/Users/soumyaprasadchandra/Desktop/VB_NET/Calculator_VB/Calculator_VB/obj/Debug/net6.0/Calculator_VB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soumyaprasadchandra/Desktop/VB_NET/Calculator_VB/Calculator_VB/obj/Debug/net6.0/Calculator_VB.AssemblyInfoInputs.cache
+/Users/soumyaprasadchandra/Desktop/VB_NET/Calculator_VB/Calculator_VB/obj/Debug/net6.0/Calculator_VB.AssemblyInfo.cs
+/Users/soumyaprasadchandra/Desktop/VB_NET/Calculator_VB/Calculator_VB/obj/Debug/net6.0/Calculator_VB.csproj.CoreCompileInputs.cache
+/Users/soumyaprasadchandra/Desktop/VB_NET/Calculator_VB/Calculator_VB/obj/Debug/net6.0/Calculator_VB.dll
+/Users/soumyaprasadchandra/Desktop/VB_NET/Calculator_VB/Calculator_VB/obj/Debug/net6.0/refint/Calculator_VB.dll
+/Users/soumyaprasadchandra/Desktop/VB_NET/Calculator_VB/Calculator_VB/obj/Debug/net6.0/Calculator_VB.pdb
+/Users/soumyaprasadchandra/Desktop/VB_NET/Calculator_VB/Calculator_VB/obj/Debug/net6.0/Calculator_VB.genruntimeconfig.cache
+/Users/soumyaprasadchandra/Desktop/VB_NET/Calculator_VB/Calculator_VB/obj/Debug/net6.0/ref/Calculator_VB.dll

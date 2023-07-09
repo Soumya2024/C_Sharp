@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{0A37805D-8B86-4566-A131-A45ED75FF1E7}|Default">
+  <MonoDevelop.Ide.ItemProperties.Armstrong__NUMBER PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Palindrome_Number/Palindrome_number.cs">
+    <Files>
+      <File FileName="../../Palindrome_Number/Palindrome_number.cs" Line="24" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Armstrong_NUMBER" expanded="True">
+            <Node name="Armstrong_NUMBER" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Palindrome_number.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

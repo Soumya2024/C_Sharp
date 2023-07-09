@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{464A220B-4921-4EAA-98B1-38BDB1D868BC}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Palindrome_NUmber_CPP/Program.cs">
+    <Files>
+      <File FileName="Palindrome_NUmber_CPP/Program.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Palindrome_NUmber_CPP" expanded="True">
+            <Node name="Palindrome_NUmber_CPP" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Palindrome__NUmber__CPP PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Neon_Number_CSharp/1.0.0": {
+        "runtime": {
+          "Neon_Number_CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Neon_Number_CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

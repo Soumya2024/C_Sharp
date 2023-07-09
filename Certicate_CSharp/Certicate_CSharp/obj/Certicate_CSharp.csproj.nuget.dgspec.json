@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/soumyaprasadchandra/Desktop/Certicate_CSharp/Certicate_CSharp/Certicate_CSharp.csproj": {}
+  },
+  "projects": {
+    "/Users/soumyaprasadchandra/Desktop/Certicate_CSharp/Certicate_CSharp/Certicate_CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/soumyaprasadchandra/Desktop/Certicate_CSharp/Certicate_CSharp/Certicate_CSharp.csproj",
+        "projectName": "Certicate_CSharp",
+        "projectPath": "/Users/soumyaprasadchandra/Desktop/Certicate_CSharp/Certicate_CSharp/Certicate_CSharp.csproj",
+        "packagesPath": "/Users/soumyaprasadchandra/.nuget/packages/",
+        "outputPath": "/Users/soumyaprasadchandra/Desktop/Certicate_CSharp/Certicate_CSharp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/soumyaprasadchandra/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/soumyaprasadchandra/Desktop/binary_Sort/binary_Sort/bin/Debug/net7.0/binary_Sort
+/Users/soumyaprasadchandra/Desktop/binary_Sort/binary_Sort/bin/Debug/net7.0/binary_Sort.deps.json
+/Users/soumyaprasadchandra/Desktop/binary_Sort/binary_Sort/bin/Debug/net7.0/binary_Sort.runtimeconfig.json
+/Users/soumyaprasadchandra/Desktop/binary_Sort/binary_Sort/bin/Debug/net7.0/binary_Sort.dll
+/Users/soumyaprasadchandra/Desktop/binary_Sort/binary_Sort/bin/Debug/net7.0/binary_Sort.pdb
+/Users/soumyaprasadchandra/Desktop/binary_Sort/binary_Sort/obj/Debug/net7.0/binary_Sort.csproj.AssemblyReference.cache
+/Users/soumyaprasadchandra/Desktop/binary_Sort/binary_Sort/obj/Debug/net7.0/binary_Sort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soumyaprasadchandra/Desktop/binary_Sort/binary_Sort/obj/Debug/net7.0/binary_Sort.AssemblyInfoInputs.cache
+/Users/soumyaprasadchandra/Desktop/binary_Sort/binary_Sort/obj/Debug/net7.0/binary_Sort.AssemblyInfo.cs
+/Users/soumyaprasadchandra/Desktop/binary_Sort/binary_Sort/obj/Debug/net7.0/binary_Sort.csproj.CoreCompileInputs.cache
+/Users/soumyaprasadchandra/Desktop/binary_Sort/binary_Sort/obj/Debug/net7.0/binary_Sort.dll
+/Users/soumyaprasadchandra/Desktop/binary_Sort/binary_Sort/obj/Debug/net7.0/refint/binary_Sort.dll
+/Users/soumyaprasadchandra/Desktop/binary_Sort/binary_Sort/obj/Debug/net7.0/binary_Sort.pdb
+/Users/soumyaprasadchandra/Desktop/binary_Sort/binary_Sort/obj/Debug/net7.0/binary_Sort.genruntimeconfig.cache
+/Users/soumyaprasadchandra/Desktop/binary_Sort/binary_Sort/obj/Debug/net7.0/ref/binary_Sort.dll

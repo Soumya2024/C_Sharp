@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3C840E53-F68D-4C96-8E96-CD3DE8079275}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="C_Sharp_MATH/Program.cs">
+    <Files>
+      <File FileName="C_Sharp_MATH/Program.cs" Line="5" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="C_Sharp_MATH" expanded="True">
+            <Node name="C_Sharp_MATH" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.C__Sharp__MATH PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
